@@ -1,0 +1,44 @@
+.rowCustom {
+    margin-bottom:2rem;
+    padding-left:1%;
+    padding-right: 1%;
+}
+
+.col{
+    background-color: rgb(236, 236, 236);
+    padding: 2% 5% 2% 5%;
+    font-size: x-large;
+}
+.card{
+    width:17vw;
+}
+.image{
+    height:10em;
+    background-color: rgb(188, 188, 188);
+    font-size: x-large;
+    color:rgb(79, 78, 78);
+}
+.bottom{
+    height:4em;
+    background-color: lightgray;
+}
+.header{
+    background-color: rgb(57, 57, 57);
+    margin-bottom:2rem;
+    }
+.nav-link{
+    color:rgb(173, 172, 172);
+}
+.nav-link:hover{
+    color:white;
+}
+.title{
+    color:white;
+    font-size:larger;
+}
+.footer{
+    height:10vh;
+    background-color: rgb(57, 57, 57);
+    color:white;
+    margin-top:2rem;
+}
